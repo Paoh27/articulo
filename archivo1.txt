@@ -1,0 +1,16 @@
+Nombre producto: Queso
+Cantidad: 10
+Nombre producto: Tomates
+Cantidad: 5
+Nombre producto: Papas
+Cantidad: 5
+Nombre producto: Yogurt
+Cantidad: 5
+Nombre producto: Carnes
+Cantidad: 5
+Nombre producto: Leche
+Cantidad: 5
+Nombre producto: Huevos
+Cantidad: 5
+Nombre producto: Aguacate
+Cantidad: 5
